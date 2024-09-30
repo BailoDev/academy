@@ -127,7 +127,7 @@ a{
         to bottom,
         rgba(0, 0, 0, 0.6),
         #12428a
-    ), url(../images/overview-2.JPG);
+    ), url(../images/about-page/about-home-bg.webp);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -228,7 +228,7 @@ a{
 .overview-img-2{
     max-width: 275px;
     right: 4rem !important;
-    top: 0rem !important;
+    top: -3rem !important;
 }
 .overview-img-3{
     max-width: 250px;
@@ -252,7 +252,7 @@ a{
         to bottom,
         rgba(0, 0, 0, 0.6),
         #12428a
-    ), url(../images/core-values-bg.jpg);
+    ), url(../images/about-page/core-values-bg.webp);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
