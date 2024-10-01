@@ -17,8 +17,7 @@ body{
     font-size: 18px;
     /* background-color: #e3e8ef !important; */
     background-color: #fff;
-    line-height: 1.6 !important;     
-    overflow-x: hidden !important;        
+    line-height: 1.6 !important;          
 }
 :root{
         /* ----- Font Family ----- */
@@ -223,9 +222,9 @@ a{
             color: var(--primary-color);
         }
     }
-    @media (min-width: 1400px){
+    @media (min-width: 1200px){
         .container{
-            max-width: 1400px;
+            max-width: 1200px;
             margin-left: auto !important;
             margin-right: auto !important;
         }
